@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "title": "Сливочное",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7KBYjpJl5ZNeMHkGl1rJQUZqt6dL3qBI5IxREF-ftnVOHz7wfTfzJXmG33ALJlDdTM4&usqp=CAU",
+    "price": 40
+  },
+  {
+    "id": 1,
+    "title": "Шоколадное",
+    "img": "https://i0.wp.com/lmld.org/wp-content/uploads/2012/07/Chocolate-Ice-Cream-3.jpg",
+    "price": 50
+  },
+  {
+    "id": 2,
+    "title": "Фисташковое",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDWk-irc3RM3n6d1WJtf9R5KTAA-F63fOw_w&usqp=CAU",
+    "price": 60
+  }
+]

@@ -1,0 +1,40 @@
+.iceCreamMashineStats__container {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 100%;
+  background: #d8d7d7;
+  opacity: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  &_content {
+    width: 600px;
+    height: 600px;
+    padding: 20px 60px;
+    box-sizing: border-box;
+    background: white;
+    opacity: 1;
+    &-tasteItem {
+      margin-left: 15px;
+      font-weight: 400;
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+}
+
+.goodLevel {
+  color: #33B605
+}
+
+.warningLevel {
+  color: #EB9007
+}
+
+.dangerLevel {
+  color: #DA0808
+}

@@ -1,0 +1,58 @@
+.cartContainer {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 100%;
+  background: #d8d7d7;
+  opacity: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  &__content {
+    width: 500px;
+    height: 450px;
+    padding: 20px 60px;
+    box-sizing: border-box;
+    background: white;
+    opacity: 1;
+    &_headerTitle {
+      text-align: center;
+      font-weight: 400;
+    }
+    &_taste, &_toppings {
+      font-weight: 600;
+    }
+    &_taste-item, &_toppings-item {
+      margin-left: 15px;
+      font-weight: 400;
+      display: flex;
+      justify-content: space-between;
+    }
+    &_fullPrice {
+      display: flex;
+      justify-content: space-between;
+    }
+    &_btnAcces-container {
+      width: 100%;
+      margin-top: 40px;
+      display: flex;
+      justify-content: center;
+    }
+    &_btnAcces {
+      background-color: #03bd03;
+      border: none;
+      width: 200px;
+      height: 40px;
+      border-radius: 5px;
+      color: white;
+      font-size: 15px;
+      cursor: pointer;
+      &:hover {
+        background-color: #1eb31e;
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "title": "Орехи",
+    "img": "https://cdn25.img.ria.ru/images/102963/86/1029638649_283:0:1950:1667_1280x0_80_0_0_430f6f444ee3d50b7d1d6421b3172a25.jpg",
+    "price": 30
+  },
+  {
+    "id": 1,
+    "title": "Карамель",
+    "img": "https://smak.ua/i/76/47/9/76479/image_main/587c0f2858284cda5388c574cc7c9011-quality_100Xresize_crop_1Xallow_enlarge_0Xw_680Xh_510.jpg",
+    "price": 20
+  },
+  {
+    "id": 2,
+    "title": "Джем",
+    "img": "https://static.1000.menu/img/content/33651/djem-malina-smorodina_1553976924_1_max.jpg",
+    "price": 10
+  }
+]
